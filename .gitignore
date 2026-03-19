@@ -1,0 +1,55 @@
+# Environment files (secrets!)
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.Python
+*.egg-info/
+dist/
+
+# Node
+node_modules/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Bot runtime data
+vault/.session/
+vault/.sessions/
+logs/
+certs/
+mcp-config.json
+.claude/settings.local.json
+.github_user
+
+# Personal vault content (created at runtime, not shared)
+vault/daily/*
+!vault/daily/.gitkeep
+vault/thoughts/**/*
+!vault/thoughts/**/.gitkeep
+vault/attachments/*
+!vault/attachments/.gitkeep
+vault/summaries/*
+!vault/summaries/.gitkeep
+vault/blog/*
+vault/agent/*
+!vault/agent/.gitkeep
+vault/MOC/*
+!vault/MOC/.gitkeep
+
+# Keep template goals but ignore user-modified versions at runtime
+# (goals templates ARE tracked in git)
