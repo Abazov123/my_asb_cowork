@@ -1,32 +1,46 @@
 ---
-type: monthly
-updated: 2026-01-01
-last_accessed: 2026-01-01
+type: monthly-goals
+updated: 2026-03-28
+last_accessed: 2026-03-28
 relevance: 1.0
-tier: active
+tier: core
+horizon: 1-month
+period: 2026-03
 ---
 
-# Monthly Priorities — January 2026
+# March 2026 - Monthly Focus
 
-## Top 3 Priorities
+## Top-3 Priorities
 
-1. **...**
-2. **...**
-3. **...**
+### 1. Запуск Agent Second Brain
+- [ ] Настроить бота на VPS
+- [ ] - [ ] Получить все API ключи (Telegram, Deepgram, Todoist)
+- [ ] - [ ] Начать ежедневно использовать голосовые заметки
+- [ ] - [ ] Настроить синхронизацию с Obsidian
 
----
+- [ ] ### 2. Маркетинг Шопинга: базовые процессы
+- [ ] - [ ] Определить топ-3 маркетинговых канала для фокуса
+- [ ] - [ ] Настроить трекинг ключевых метрик
+- [ ] - [ ] Запустить первую системную маркетинговую активность
 
-## Progress
+- [ ] ### 3. Аналитика Шопинга: фундамент
+- [ ] - [ ] Определить ключевые KPI для аналитики
+- [ ] - [ ] Начать собирать данные в структурированном виде
+- [ ] - [ ] Первый аналитический отчёт по текущему состоянию
 
-| Priority | Status | Notes |
-|----------|--------|-------|
-| 1 | 🔲 Not started | |
-| 2 | 🔲 Not started | |
-| 3 | 🔲 Not started | |
+- [ ] ---
 
----
+- [ ] ## Monthly Review Template
 
-## Links
+- [ ] ### What went well?
+- [ ] ...
 
-- [[1-yearly-2025]] — yearly goals
-- [[3-weekly]] — this week's focus
+- [ ] ### What didn't go well?
+- [ ] ...
+
+- [ ] ### What to adjust next month?
+- [ ] ...
+
+- [ ] ## Links
+- [ ] - [[1-yearly-2025]] - Year goals
+- [ ] - [[3-weekly]] - Current week
